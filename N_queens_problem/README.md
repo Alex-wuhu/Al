@@ -1,4 +1,4 @@
 ## solving N queens problem by search algorithms
 * bfs
-* hile climbing
+* hill climbing
 * backtrakcing(constriant satisfaction problem)
